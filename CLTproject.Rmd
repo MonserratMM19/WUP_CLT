@@ -105,3 +105,8 @@ p + ggtitle("n = 9") +
 print(paste('mean = ', mean(my1000$k9),' sd = ',sd(my1000$k9)))
 
 ```
+
+The previous graph shows that the mean is getting closer and closer to 50 and the standard deviation is decreasing which is by CLT theory. The standard deviation was expected, because the sample standard deviation was 41.83 and when divided by square root 9 (the sample size) it equals approximately 13.93, which is close to the results of approximately 14. overall, the graph is getting more symmetrical. 
+
+
+
